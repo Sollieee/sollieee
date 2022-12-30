@@ -1,17 +1,19 @@
 <h1>Hi, I'm Solomon! <br/> <a href="https://github.com/Sollieee">Data Analyst</a>
 
 <h2>👨‍💻 Data Analystics Projects:</h2>
+  <h1>POWER BI REPORTS:</h1>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>BIKE SALES REPORT </b>
+  - [Bike Sales report: understanding the profit generated](https://www.novypro.com/project/bike-sales)
+- <b>NESTLE PRODUCT SALES REPORT</b>
+  - [nestle report : Analyzing the sale revenue](https://www.novypro.com/project/nestle-report)) <b><i>(Orange ☺)</b></i>
+- <b>OTHER REPORTS ON NOVYPRO</b>
+  - [FINANCE INCLUSION IN NIGERIA](https://www.novypro.com/project/financial-inclusion)
+  - [THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS](https://www.novypro.com/project/datascience-jobs)
+  - [OLYMPIC ATHLETES: ANALYZING THE THE OLYMPIC AND MEDAL HOLDERS](https://www.novypro.com/project/sollie)
+  - [AIRLINE PASSENGERS SATISFACTION](https://www.novypro.com/project/sollie-airlinepassengers)<b><i>(ANALYZING THE SACTIFACTION LEVEL OF COSTUMERS AND HOW TO IMPROVE IT)</b></i>
+  
+- <b> SQL (MySQL)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
