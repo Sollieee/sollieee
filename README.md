@@ -3,10 +3,8 @@
 <h2>👨‍💻 Data Analystics Projects:</h2>
   <h1>POWER BI REPORTS:</h1>
 
-- <b>BIKE SALES REPORT </b>
-  - [Bike Sales report: understanding the profit generated](https://www.novypro.com/project/bike-sales)
-- <b>NESTLE PRODUCT SALES REPORT</b>
-  - [Nestle Report : Analyzing the sale revenue](https://www.novypro.com/project/nestle-report)) <b><i>(Orange ☺)</b></i>
+  - [<b>BIKE SALES REPORT</b>](https://www.novypro.com/project/bike-sales) <b><i>(Understanding the profit generated)</b></i>
+  - [<b>NESTLE PRODUCT SALES REPORT</b>](https://www.novypro.com/project/nestle-report)) <b><i>(Analyzing the sale revenue in Orange ☺)</b></i>
 - <b>OTHER REPORTS ON NOVYPRO</b>
   - [FINANCE INCLUSION IN NIGERIA](https://www.novypro.com/project/financial-inclusion)
   - [DATA SCIENCE JOBS REPORT](https://www.novypro.com/project/datascience-jobs)<b><i>(THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS)</b></i>
