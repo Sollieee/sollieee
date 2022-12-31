@@ -9,22 +9,22 @@
   - [nestle report : Analyzing the sale revenue](https://www.novypro.com/project/nestle-report)) <b><i>(Orange ☺)</b></i>
 - <b>OTHER REPORTS ON NOVYPRO</b>
   - [FINANCE INCLUSION IN NIGERIA](https://www.novypro.com/project/financial-inclusion)
-  - [THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS](https://www.novypro.com/project/datascience-jobs)
-  - [OLYMPIC ATHLETES: ANALYZING THE THE OLYMPIC AND MEDAL HOLDERS](https://www.novypro.com/project/sollie)
+  - [DATA SCIENCE JOBS REPORT](https://www.novypro.com/project/datascience-jobs)<b><i>(THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS)</b></i>
+  - [OLYMPIC ATHLETES](https://www.novypro.com/project/sollie)<b><i>(:ANALYZING THE THE OLYMPIC AND MEDAL HOLDERS)</b></i>
   - [AIRLINE PASSENGERS SATISFACTION](https://www.novypro.com/project/sollie-airlinepassengers)<b><i>(ANALYZING THE SACTIFACTION LEVEL OF COSTUMERS AND HOW TO IMPROVE IT)</b></i>
   
-- <b> SQL (MySQL)</b>
-  - [MYSQL](https://github.com/Sollieee/-SQL)
-  - [Ransomware Proof of Concept](https://github.com/Sollieee/-SQL)
-  - [Keylogger with Email Capability](https://github.com/Sollieee/-SQL)
+- <b> SQL: DATABASE LANGUAGE (MySQL)</b>
+  - [MYSQL ](https://github.com/Sollieee/-SQL)<b><i>(Queries on the big 6)</b></i>
+  - [MYSQL: the Aggregate and Windows Functions ](https://github.com/Sollieee/-SQL)
+  - [MYSQL: Database and Table Creation Queries](https://github.com/Sollieee/-SQL)
+  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos that inspired me</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
