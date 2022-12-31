@@ -14,7 +14,7 @@
   - [AIRLINE PASSENGERS SATISFACTION](https://www.novypro.com/project/sollie-airlinepassengers)<b><i>(ANALYZING THE SACTIFACTION LEVEL OF COSTUMERS AND HOW TO IMPROVE IT)</b></i>
   
 - <b> SQL: DATABASE LANGUAGE (MySQL)</b>
-  - [MYSQL ](https://github.com/Sollieee/-SQL)<b><i>(Queries on the big 6)</b></i>
+  - [MYSQL Exercise](https://github.com/Sollieee/-SQL)<b><i>(Queries on the big 6 and joins)</b></i>
   - [MYSQL: the Aggregate and Windows Functions ](https://github.com/Sollieee/-SQL)
   - [MYSQL: Database and Table Creation Queries](https://github.com/Sollieee/-SQL)
   
@@ -29,13 +29,12 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/Sollie_0
+[instagram]: https://www.instagram.com/Solliee
+[linkedin]: https://www.linkedin.com/in/solomon-olusanya-72b191214
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadako1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
