@@ -6,7 +6,7 @@
 - <b>BIKE SALES REPORT </b>
   - [Bike Sales report: understanding the profit generated](https://www.novypro.com/project/bike-sales)
 - <b>NESTLE PRODUCT SALES REPORT</b>
-  - [nestle report : Analyzing the sale revenue](https://www.novypro.com/project/nestle-report)) <b><i>(Orange ☺)</b></i>
+  - [Nestle Report : Analyzing the sale revenue](https://www.novypro.com/project/nestle-report)) <b><i>(Orange ☺)</b></i>
 - <b>OTHER REPORTS ON NOVYPRO</b>
   - [FINANCE INCLUSION IN NIGERIA](https://www.novypro.com/project/financial-inclusion)
   - [DATA SCIENCE JOBS REPORT](https://www.novypro.com/project/datascience-jobs)<b><i>(THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS)</b></i>
@@ -14,7 +14,7 @@
   - [AIRLINE PASSENGERS SATISFACTION](https://www.novypro.com/project/sollie-airlinepassengers)<b><i>(ANALYZING THE SACTIFACTION LEVEL OF COSTUMERS AND HOW TO IMPROVE IT)</b></i>
   
 - <b> SQL: DATABASE LANGUAGE (MySQL)</b>
-  - [MYSQL Exercise](https://github.com/Sollieee/-SQL)<b><i>(Queries on the big 6 and joins)</b></i>
+  - [MYSQL Exercise](https://github.com/Sollieee/-SQL) <b><i>(Queries on the big 6 and joins)</b></i>
   - [MYSQL: the Aggregate and Windows Functions ](https://github.com/Sollieee/-SQL)
   - [MYSQL: Database and Table Creation Queries](https://github.com/Sollieee/-SQL)
   
