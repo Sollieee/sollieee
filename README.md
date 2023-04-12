@@ -4,17 +4,17 @@
   <h1>POWER BI REPORTS:</h1>
 
   - [<b>BIKE SALES REPORT</b>](https://www.novypro.com/project/bike-sales) <b><i>(Understanding the profit generated)</b></i>
-  - [<b>NESTLE PRODUCT SALES REPORT</b>](https://www.novypro.com/project/nestle-report)) <b><i>(Analyzing the sale revenue in Orange ☺)</b></i>
+ 
 - <b>OTHER REPORTS ON NOVYPRO</b>
   - [FINANCE INCLUSION IN NIGERIA](https://www.novypro.com/project/financial-inclusion)
-  - [DATA SCIENCE JOBS REPORT](https://www.novypro.com/project/datascience-jobs)<b><i>(THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS)</b></i>
+  - [DATA SCIENCE JOBS REPORT](https://www.novypro.com/project/datascience-jobs)<b><i>(THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS ☺)</b></i>
   - [OLYMPIC ATHLETES](https://www.novypro.com/project/sollie)<b><i>(:ANALYZING THE THE OLYMPIC AND MEDAL HOLDERS)</b></i>
   - [AIRLINE PASSENGERS SATISFACTION](https://www.novypro.com/project/sollie-airlinepassengers)<b><i>(ANALYZING THE SACTIFACTION LEVEL OF COSTUMERS AND HOW TO IMPROVE IT)</b></i>
   
 - <b> SQL: DATABASE LANGUAGE (MySQL)</b>
   - [MYSQL Exercise on EMPLOYEE DATABASE](https://github.com/Sollieee/-SQL/blob/main/-mySQL) <b><i>(Queries on the big 6 and joins)</b></i>
   - [SQL QUERIES on new record database](https://github.com/Sollieee/-SQL/blob/main/SQL.%20database%20on%20new%20record) <b><i>(SQL QUERIES on new record database)</b></i>
-  - [MYSQL: the Aggregate and Windows Functions ](https://github.com/Sollieee/-SQL)
+  - [MYSQL: the Aggregate and Windows Functions ](https://github.com/Sollieee/-SQL/blob/main/SQL%20windows%20functions) <b><i>(SQL windows function queries)</b></i>
   - [MYSQL: Database and Table Creation Queries](https://github.com/Sollieee/-SQL/blob/main/SQL%20Queries%20to%20create%20RDBMS%2C%20Tables%20and%20inserting%20into%20DB%2C)<b><i>(Queries to create DB, Tables and inserting into DB)</b></i>
   
 - <b>Python</b>
