@@ -12,7 +12,8 @@
   - [AIRLINE PASSENGERS SATISFACTION](https://www.novypro.com/project/sollie-airlinepassengers)<b><i>(ANALYZING THE SACTIFACTION LEVEL OF COSTUMERS AND HOW TO IMPROVE IT)</b></i>
   
 - <b> SQL: DATABASE LANGUAGE (MySQL)</b>
-  - [MYSQL Exercise](https://github.com/Sollieee/-SQL) <b><i>(Queries on the big 6 and joins)</b></i>
+  - [MYSQL Exercise on EMPLOYEE DATABASE](https://github.com/Sollieee/-SQL/blob/main/-mySQL) <b><i>(Queries on the big 6 and joins)</b></i>
+  - [SQL QUERIES on new record database](https://github.com/Sollieee/-SQL/blob/main/SQL.%20database%20on%20new%20record) <b><i>(SQL QUERIES on new record database)</b></i>
   - [MYSQL: the Aggregate and Windows Functions ](https://github.com/Sollieee/-SQL)
   - [MYSQL: Database and Table Creation Queries](https://github.com/Sollieee/-SQL)
   
