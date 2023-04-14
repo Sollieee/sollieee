@@ -18,7 +18,7 @@
   - [MYSQL: Database and Table Creation Queries DDL](https://github.com/Sollieee/-SQL/blob/main/SQL%20Queries%20to%20create%20RDBMS%2C%20Tables%20and%20inserting%20into%20DB%2C)<b><i>(Queries to create DB, Tables and inserting into DB)</b></i>
   
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - []
 
 <h2>📺 Popular YouTube Videos that inspired me</h2>
 
