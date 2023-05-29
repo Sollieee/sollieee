@@ -16,6 +16,7 @@
   - [SQL PROJECT on new record database](https://github.com/Sollieee/-SQL/blob/main/Dataset%20on%20Record_jan.sql) <b><i>(SQL DATA EXPLORATION QUERIES on dataset)</b></i>
   - [MYSQL: the Aggregate and Windows Functions ](https://github.com/Sollieee/-SQL/blob/main/SQL%20windows%20functions) <b><i>(SQL windows function queries)</b></i>
   - [MYSQL: Database and Table Creation Queries DDL](https://github.com/Sollieee/-SQL/blob/main/the%20mount.sql)<b><i>(Queries to create DB, Tables and inserting into DB)</b></i>
+   - [MYSQL Project on Donation and Donor Database](https://github.com/Sollieee/-SQL/blob/main/the%20mount.sql)<b><i>(Queries to create DB, Tables and inserting into DB)</b></i>
   
   
 - <b>Python</b>
