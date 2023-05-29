@@ -17,7 +17,7 @@
   - [MYSQL: the Aggregate and Windows Functions ](https://github.com/Sollieee/-SQL/blob/main/SQL%20windows%20functions) <b><i>(SQL windows function queries)</b></i>
   - [MYSQL: Database and Table Creation Queries DDL](https://github.com/Sollieee/-SQL/blob/main/the%20mount.sql)<b><i>(Queries to create DB, Tables and inserting into DB)</b></i>
   
-  https://github.com/Sollieee/-SQL/blob/main/the%20mount.sql
+  
 - <b>Python</b>
   - []
 
