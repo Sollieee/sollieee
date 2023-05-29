@@ -13,7 +13,7 @@
   
 - <b> SQL: DATABASE LANGUAGE (MySQL)</b>
   - [MYSQL Exercise on EMPLOYEE DATABASE](https://github.com/Sollieee/-SQL/blob/main/-mySQL) <b><i>(Queries on DML and joins)</b></i>
-  - [SQL PROJECT on new record database](https://github.com/Sollieee/-SQL/blob/main/SQL.%20database%20on%20new%20record) <b><i>(SQL QUERIES on new record database)</b></i>
+  - [SQL PROJECT on new record database](https://github.com/Sollieee/-SQL/blob/main/Dataset%20on%20Record_jan.sql) <b><i>(SQL QUERIES on new record database)</b></i>
   - [MYSQL: the Aggregate and Windows Functions ](https://github.com/Sollieee/-SQL/blob/main/SQL%20windows%20functions) <b><i>(SQL windows function queries)</b></i>
   - [MYSQL: Database and Table Creation Queries DDL](https://github.com/Sollieee/-SQL/blob/main/the%20mount.sql)<b><i>(Queries to create DB, Tables and inserting into DB)</b></i>
   
