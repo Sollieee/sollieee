@@ -21,6 +21,7 @@
   
 - <b>Python</b>
   - [Python project using Random package.](https://github.com/Sollieee/Python_Projects/blob/main/Rock%2Cpaper%2Cscissors.ipynb)<b><i>(Rock, Paper,Scissor)</b></i>
+  - [A555555.](https://github.com/Sollieee/Python_Projects/blob/main/Rock%2Cpaper%2Cscissors.ipynb)<b><i>(Rock, Paper,Scissor)</b></i>
 
 <h2>📺 Popular YouTube Videos that inspired me</h2>
 
