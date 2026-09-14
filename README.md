@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Agentic AI Projects:</h2>
 
-- <b>[Agentic-AI-Engineering](https://github.com/Sollieee/AI-Learning-Journey)</b>
+ - <b>[Agentic-AI-Engineering](https://github.com/Sollieee/AI-Learning-Journey)</b>
 
 
 
-- <b> PHTHON PROJECTS</b>
+- <b> PYTHON PROJECTS</b>
   - [AI-Learning-Journey .](https://github.com/Sollieee/AI-Learning-Journey)<b><i>(AI Eng)</b></i>
   - [Python using Random package.](https://github.com/Sollieee/Python_Projects/blob/main/Rock%2Cpaper%2Cscissors.ipynb)<b><i>(Rock, Paper,Scissor)</b></i>
   
@@ -22,8 +22,7 @@
   <b>POWER BI REPORTS:</b> 
 
   - [FINANCE INCLUSION IN NIGERIA](https://www.novypro.com/project/financial-inclusion)
-  - [DATA SCIENCE JOBS REPORT](https://www.novypro.com/project/datascience-jobs)<b><i>(THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS ☺)</b></i>
-  - [OLYMPIC ATHLETES](https://www.novypro.com/project/sollie)<b><i>(:ANALYZING THE THE OLYMPIC AND MEDAL HOLDERS)</b></i>
+  - [OLYMPIC ATHLETES](https://www.novypro.com/project/sollie)<b><i>(ANALYZING THE THE OLYMPIC AND MEDAL HOLDERS)</b></i>
   - [AIRLINE PASSENGERS SATISFACTION](https://www.novypro.com/project/sollie-airlinepassengers)<b><i>(ANALYZING THE SACTIFACTION LEVEL OF COSTUMERS AND HOW TO IMPROVE IT)</b></i>
 <h2>📺 Popular YouTube Videos that inspired me</h2>
 
