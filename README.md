@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Agentic AI Projects:</h2>
 
-- <b>[Agentic-AI-Engineering](https://github.com/Sollieee/AI-Learning-Journey)</b>
+   - <b>[Agentic-AI-Engineering](https://github.com/Sollieee/AI-Learning-Journey)</b>
 
 
 
