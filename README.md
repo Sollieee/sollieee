@@ -1,6 +1,7 @@
 <h1>Hi, I'm Solomon! <br/> <a href="https://github.com/Sollieee">Aspiring Agentic AI Engineer | Data Analyst</a>
 
 <h2>👨‍💻 Agentic AI Projects:</h2>
+
    - <b>[Agentic-AI-Engineering](https://github.com/Sollieee/AI-Learning-Journey)</b>
 
 
