@@ -1,7 +1,7 @@
 <h1>Hi, I'm Solomon! <br/> <a href="https://github.com/Sollieee">Aspiring Agentic AI Engineer | Data Analyst</a>
 
 <h2>👨‍💻 Agentic AI Projects:</h2>
-- <b> agentic-ai-engineering)</b>
+<b> Agentic-AI-Engineering)</b>
 
   - [AI-Learning-Journey .](https://github.com/Sollieee/AI-Learning-Journey)<b><i>(AI Eng)</b></i>
   - [Python project using Random package.](https://github.com/Sollieee/Python_Projects/blob/main/Rock%2Cpaper%2Cscissors.ipynb)<b><i>(Rock, Paper,Scissor)</b></i>
