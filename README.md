@@ -1,8 +1,10 @@
 <h1>Hi, I'm Solomon! <br/> <a href="https://github.com/Sollieee">Data Analyst</a>
 
 <h2>👨‍💻 Data Analystics Projects:</h2>
+
   <h1>POWER BI REPORTS:</h1> 
 - <b>OTHER REPORTS ON NOVYPRO</b>
+
   - [FINANCE INCLUSION IN NIGERIA](https://www.novypro.com/project/financial-inclusion)
   - [DATA SCIENCE JOBS REPORT](https://www.novypro.com/project/datascience-jobs)<b><i>(THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS ☺)</b></i>
   - [OLYMPIC ATHLETES](https://www.novypro.com/project/sollie)<b><i>(:ANALYZING THE THE OLYMPIC AND MEDAL HOLDERS)</b></i>
