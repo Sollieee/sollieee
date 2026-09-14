@@ -2,10 +2,11 @@
 
 <h2>👨‍💻 Agentic AI Projects:</h2>
 
-- [Agentic-AI-Engineering](https://github.com/Sollieee/AI-Learning-Journey)<b><i>(Agents)</b></i>
+- <b>[Agentic-AI-Engineering](https://github.com/Sollieee/AI-Learning-Journey)</b>
 
+- <b> PHTHON PROJECTS</b>
   - [AI-Learning-Journey .](https://github.com/Sollieee/AI-Learning-Journey)<b><i>(AI Eng)</b></i>
-  - [Python project using Random package.](https://github.com/Sollieee/Python_Projects/blob/main/Rock%2Cpaper%2Cscissors.ipynb)<b><i>(Rock, Paper,Scissor)</b></i>
+  - [Python using Random package.](https://github.com/Sollieee/Python_Projects/blob/main/Rock%2Cpaper%2Cscissors.ipynb)<b><i>(Rock, Paper,Scissor)</b></i>
   
 - <b> SQL: DATABASE LANGUAGE (MySQL)</b>
   - [MYSQL Exercise on EMPLOYEE DATABASE](https://github.com/Sollieee/-SQL/blob/main/-mySQL) <b><i>(Queries on DML and joins)</b></i>
