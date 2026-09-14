@@ -1,10 +1,7 @@
 <h1>Hi, I'm Solomon! <br/> <a href="https://github.com/Sollieee">Data Analyst</a>
 
 <h2>👨‍💻 Data Analystics Projects:</h2>
-  <h1>POWER BI REPORTS:</h1>
-
-  - [<b>BIKE SALES REPORT</b>](https://www.novypro.com/project/bike-sales) <b><i>(Understanding the profit generated)</b></i>
- 
+  <h1>POWER BI REPORTS:</h1> 
 - <b>OTHER REPORTS ON NOVYPRO</b>
   - [FINANCE INCLUSION IN NIGERIA](https://www.novypro.com/project/financial-inclusion)
   - [DATA SCIENCE JOBS REPORT](https://www.novypro.com/project/datascience-jobs)<b><i>(THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS ☺)</b></i>
@@ -16,7 +13,7 @@
   - [SQL PROJECT on new record database](https://github.com/Sollieee/-SQL/blob/main/Dataset%20on%20Record_jan.sql) <b><i>(SQL DATA EXPLORATION QUERIES on dataset)</b></i>
   - [MYSQL: the Aggregate and Windows Functions ](https://github.com/Sollieee/-SQL/blob/main/SQL%20windows%20functions) <b><i>(SQL windows function queries)</b></i>
   - [MYSQL: Database and Table Creation Queries DDL](https://github.com/Sollieee/-SQL/blob/main/the%20mount.sql)<b><i>(Queries to create DB, Tables and inserting into DB)</b></i>
-   - [MYSQL Project on Donation and Donor Database](https://github.com/Sollieee/-SQL/blob/main/Donation%20and%20Donor%20Analysis.sql)<b><i>(Queries Data Analysis on Donation DB)</b></i>
+  - [MYSQL Project on Donation and Donor Database](https://github.com/Sollieee/-SQL/blob/main/Donation%20and%20Donor%20Analysis.sql)<b><i>(Queries Data Analysis on Donation DB)</b></i>
   
   
 - <b>Python</b>
