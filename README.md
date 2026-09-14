@@ -1,14 +1,7 @@
-<h1>Hi, I'm Solomon! <br/> <a href="https://github.com/Sollieee">Data Analyst</a>
+<h1>Hi, I'm Solomon! <br/> <a href="https://github.com/Sollieee">Aspiring Agentic AI Engineer | Data Analyst</a>
 
 <h2>👨‍💻 Data Analystics Projects:</h2>
 
-  <h1>POWER BI REPORTS:</h1> 
-- <b>OTHER REPORTS ON NOVYPRO</b>
-
-  - [FINANCE INCLUSION IN NIGERIA](https://www.novypro.com/project/financial-inclusion)
-  - [DATA SCIENCE JOBS REPORT](https://www.novypro.com/project/datascience-jobs)<b><i>(THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS ☺)</b></i>
-  - [OLYMPIC ATHLETES](https://www.novypro.com/project/sollie)<b><i>(:ANALYZING THE THE OLYMPIC AND MEDAL HOLDERS)</b></i>
-  - [AIRLINE PASSENGERS SATISFACTION](https://www.novypro.com/project/sollie-airlinepassengers)<b><i>(ANALYZING THE SACTIFACTION LEVEL OF COSTUMERS AND HOW TO IMPROVE IT)</b></i>
   
 - <b> SQL: DATABASE LANGUAGE (MySQL)</b>
   - [MYSQL Exercise on EMPLOYEE DATABASE](https://github.com/Sollieee/-SQL/blob/main/-mySQL) <b><i>(Queries on DML and joins)</b></i>
@@ -22,6 +15,13 @@
   - [Python project using Random package.](https://github.com/Sollieee/Python_Projects/blob/main/Rock%2Cpaper%2Cscissors.ipynb)<b><i>(Rock, Paper,Scissor)</b></i>
   - [AI-Learning-Journey .](https://github.com/Sollieee/AI-Learning-Journey)<b><i>(AI Eng)</b></i>
 
+  <h1>POWER BI REPORTS:</h1> 
+- <b>OTHER REPORTS ON NOVYPRO</b>
+
+  - [FINANCE INCLUSION IN NIGERIA](https://www.novypro.com/project/financial-inclusion)
+  - [DATA SCIENCE JOBS REPORT](https://www.novypro.com/project/datascience-jobs)<b><i>(THE INCREASE IN THE DATA RELATED JOBS IN 3 YEARS ☺)</b></i>
+  - [OLYMPIC ATHLETES](https://www.novypro.com/project/sollie)<b><i>(:ANALYZING THE THE OLYMPIC AND MEDAL HOLDERS)</b></i>
+  - [AIRLINE PASSENGERS SATISFACTION](https://www.novypro.com/project/sollie-airlinepassengers)<b><i>(ANALYZING THE SACTIFACTION LEVEL OF COSTUMERS AND HOW TO IMPROVE IT)</b></i>
 <h2>📺 Popular YouTube Videos that inspired me</h2>
 
 <h2> 🤳 Connect with me:</h2>
